@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jest": "^24.7.1",
+    "jest-dom": "^3.1.3"
+  }
+}
